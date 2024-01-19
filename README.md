@@ -1,4 +1,4 @@
-# Translate Speech
+# Translate Speech【完了】
 
 AzureのTextTranslationとSpeechServicesを使用して、翻訳と音声サービスを試してみました。<br>
 このブログで紹介してます「https://begginerkun.hatenablog.com/entry/2024/01/19/222109」
